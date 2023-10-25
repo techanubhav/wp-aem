@@ -16,9 +16,9 @@ main .hero {
 
 main .hero h1 {
   max-width: 1280px;
-  margin-left: 1000px;
-  margin-right: auto;
-  color: #000000;
+  margin-left: 200px;
+  margin-right: 800px;
+  color: #ffffff;
 }
 
 main .hero picture {
